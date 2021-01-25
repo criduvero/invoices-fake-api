@@ -1,0 +1,32 @@
+{
+  "person-types": [
+    {
+      "id": 1,
+      "name": "Natural"
+    },
+    {
+      "id": 2,
+      "name": "Jurídica"
+    }
+  ],
+  "regime-types": [
+    {
+      "id": 1,
+      "name": "No resposable de IVA"
+    },
+    {
+      "id": 2,
+      "name": "Responsable de IVA"
+    }
+  ],
+  "id-types": [
+    {
+      "id": 1,
+      "name": "Cédula de ciudadanía"
+    },
+    {
+      "id": 2,
+      "name": "NIT"
+    }
+  ]
+}
